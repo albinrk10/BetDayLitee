@@ -15,12 +15,12 @@
 
 ### Desde Git
 ```powershell
-git clone https://github.com/albinrk10/BetDayLite.git
+git clone https://github.com/albinrk10/BetDayLitee.git
 cd BetDayLite
 ```
 
 ### O descargar como ZIP
-1. Ir a: https://github.com/albinrk10/BetDayLite
+1. Ir a: https://github.com/albinrk10/BetDayLitee
 2. Click `Code → Download ZIP`
 3. Extraer archivo ZIP
 4. Abrir carpeta en terminal
