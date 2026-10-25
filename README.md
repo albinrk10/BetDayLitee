@@ -91,8 +91,7 @@ app/src/main/java/com/albin/betdaylite/
 | **Navegación** | [Navigation Compose](https://developer.android.com/jetpack/compose/navigation) con Rutas Type-Safe |
 | **Inyección de Dependencias** | [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android) |
 | **Persistencia de Datos** | [Room Database](https://developer.android.com/training/data-storage/room) con SQLite |
-| **Red & Serialización** | [Retrofit](https://square.github.io/retrofit/) + [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) |
-| **Asincronía & Reactividad** | [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) & [StateFlow / SharedFlow](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-state-flow/) |
+| **Red & Serialización** | [Retrofit](https://square.github.io/retrofit/) 
 | **Carga de Imágenes** | [Coil Compose](https://coil-kt.github.io/coil/compose/) con placeholders automáticos |
 | **Testing** | [JUnit 4](https://junit.org/junit4/), [MockK](https://mockk.io/) & [Turbine](https://github.com/cashapp/turbine) |
 
